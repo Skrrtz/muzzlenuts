@@ -230,7 +230,7 @@ button{
     background-color: rgb(15, 15, 18);
     padding: 5px 25px;
     z-index: 4;
-}
+} 
 
 .darkbutton::after{
     left:0;
